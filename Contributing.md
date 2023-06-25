@@ -14,11 +14,11 @@ Thank you for considering contributing to Gym-Junkies! Please take a moment to r
 ## How to run in your local machine
 
 1. install dependencies
-   > `npm install`
+   > `pnpm install`
 2. run the app
-   > `npm dev`
+   > `pnpm dev`
    or
-   >  `npm run dev`
+   >  `pnpm run dev`
 
 ## Add your card
 
